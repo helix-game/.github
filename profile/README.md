@@ -2,7 +2,7 @@
 
 ## Welcome to Hypersonic Laboratories
 
-[Hypersonic Laboratories](https://www.hypersoniclaboratories.com/) is an international, remote-first game studio developing HELIX, the ultimate open-world multiplayer sandbox game coming soon to PC. We're a startup of 25+ passionate developers from a variety of backgrounds, with support from PLAY Ventures, Third King, GSR and more.
+[Hypersonic Laboratories](https://www.hypersoniclaboratories.com/) is an international, remote-first game studio developing HELIX, the ultimate open-world multiplayer sandbox game coming soon to PC. We're a startup of 25+ passionate developers from a variety of backgrounds, with support from PLAY Ventures, Third Kind, Samsung Next and more.
 
 Engineering is core to our organization, and here you'll find our public repositories for HELIX Core, our open source Lua packages and more. As we continue to develop HELIX, we plan to open source even more packages, templates, game modes and other useful code.
 
