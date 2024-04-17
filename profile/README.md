@@ -14,4 +14,4 @@ HELIX is currently in invite-only alpha testing for select creators. To find out
 
 ## Join us!
 
-Are you a great engineer looking for the next challenge? [Check out the open roles on our Careers site](https://www.hypersoniclaboratories.com/careers).
+Are you looking for the next challenge? We're hiring, including engineers! [Check out the open roles on our Careers site](https://www.hypersoniclaboratories.com/careers).
