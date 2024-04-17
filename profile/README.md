@@ -1,4 +1,4 @@
-![Hypersonic Labs Github Header](github-org-header-gif.gif)
+![Hypersonic Labs Github Header](https://uploads-ssl.webflow.com/6605968cbc45f17349e43d93/661ffd799a4a03a422e076b1_github-org-header-gif-ezgif.com-gif-to-webp-converter.webp)
 
 ## Who are we?
 
