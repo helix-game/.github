@@ -8,7 +8,7 @@ Engineering is core to our organization, and here you'll find our public reposit
 
 ## We're building HELIX
 
-[HELIX](https://helixgame.com/) is the ultimate open world sandbox game. Built on Unreal Engine 5 and utilizing a proprietary networking solution, HELIX puts the power and high fidelity of AAA game creation in the palm of your hand through intuitive yet powerful Lua scripting. Build and play massive worlds with incredible graphics and 1000+ players.
+[HELIX](https://helixgame.com/) is the ultimate open world sandbox game. Built on Unreal Engine 5 and utilizing a proprietary networking solution, HELIX puts the power and high fidelity of AAA game creation in the palm of your hand through intuitive yet powerful Lua scripting. Build and play massive worlds with incredible graphics and 100s players.
 
 HELIX is currently in invite-only alpha testing for select creators. To find out more or sign up for early access, [check out the HELIX website](https://helixgame.com/).
 
